@@ -1,0 +1,33 @@
+{
+  "description": "Usb Gamepad",
+
+  "vendorID": 5227,
+  "productID": 21760,
+
+  "axis": [
+    { "name": "up-down", "id": 5 },
+    { "name": "left-right", "id": 4 },
+    { "name": "right_stick_x", "id": 2},  
+    { "name": "right_stick_y", "id": 3},  
+    { "name": "left_stick_x", "id": 1},  
+    { "name": "left_stick_y", "id": 0}
+  ],
+
+  "buttons": [
+    { "name": "square", "id": 2 },
+    { "name": "triangle", "id": 3 },
+    { "name": "circle", "id": 1 },
+    { "name": "x", "id": 0 },
+
+    { "name": "l1", "id": 4 },
+    { "name": "l2", "id": 6 },
+
+    { "name": "r1", "id": 5 },
+    { "name": "r2", "id": 7 },
+
+    { "name": "start", "id": 9 },
+    { "name": "select", "id": 8 },
+
+    { "name": "home", "id": 12 }
+  ]
+}
